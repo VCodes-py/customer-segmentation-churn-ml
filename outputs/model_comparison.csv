@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC,CV ROC-AUC (Mean),CV ROC-AUC (Std),CV F1 (Mean)
+Gradient Boosting,0.9376,0.8741,0.8429,0.8582,0.9829,0.9824,0.0043,0.8665
+Random Forest,0.9296,0.7824,0.95,0.8581,0.981,0.9745,0.0092,0.8235
+Logistic Regression,0.9088,0.7399,0.9143,0.8179,0.9646,0.9672,0.0039,0.7953

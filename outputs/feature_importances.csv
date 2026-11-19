@@ -1,0 +1,14 @@
+Feature,Importance
+contract_type_Month-to-month,0.2668883156027777
+recency,0.20181930993056957
+support_tickets,0.12748323330511074
+contract_type_Two-year,0.07100139849293012
+contract_type_One-year,0.06696930070099717
+tenure_months,0.053985084757551045
+monetary,0.050485634922360766
+frequency,0.04704341638915001
+cluster_label_Champions,0.046185790308912636
+avg_order_value,0.024250654080065867
+cluster_label_Hibernating,0.01962959078373156
+cluster_label_Loyal Customers,0.014505929082687491
+cluster_label_At-Risk,0.009752341643155362
